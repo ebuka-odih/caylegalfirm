@@ -2,21 +2,7 @@
 @section('content')
 
     <div id="main" class="all_colors" data-scroll-offset="88">
-        <div id="avia-google-map-nr-1" class="avia-google-maps avia-google-maps-section main_color   avia-builder-el-0  el_before_av_two_third  avia-builder-el-first   container_wrap fullsize">
-            <div id="av_gmap_1" class="avia-google-map-container " data-mapid="1" style="height: 400px; position: relative; overflow: hidden;">
-                <div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: transparent;">
-                    <div class="gm-err-container">
-                        <div class="gm-err-content">
-                            <div class="gm-err-icon">
-                                <img src="https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png" alt="" draggable="false" style="user-select: none;">
-                            </div>
-                            <div class="gm-err-title">Sorry! Something went wrong.</div>
-                            <div class="gm-err-message">This page didn't load Google Maps correctly. See the JavaScript console for technical details.</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
         <div id="after_full_slider_1" class="main_color av_default_container_wrap container_wrap fullsize">
             <div class="container">
                 <div class="template-page content  av-content-full alpha units">
@@ -69,11 +55,7 @@
                                                     <div class="special-heading-inner-border"></div>
                                                 </div>
                                             </div>
-                                            <p>
-                                                <strong>Phone:</strong> 302-575-0873
-                                                <br>
-                                                <strong>Fax:</strong> 302-575-0925
-                                            </p>
+                                        
                                             <div style="padding-bottom:5px;" class="av-special-heading av-special-heading-h3    avia-builder-el-10  el_after_av_heading  avia-builder-el-last   ">
                                                 <h3 class="av-special-heading-tag " itemprop="headline">Office Hours</h3>
                                                 <div class="special-heading-border">
